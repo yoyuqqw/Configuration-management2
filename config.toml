@@ -1,0 +1,8 @@
+[graphviz]
+path = "/Program Files (x86)/Graphviz/bin"
+
+[repository]
+path = "/Users/79660/Documents/GitHub/Configuration-management2"
+
+[output]
+path = "graph"
